@@ -6,7 +6,7 @@ export default class CatComponent extends Component {
       
       <div className="bar" id="cat">
       // eslint-disable-next-line
-        <img src="./public/cat.gif" />
+        <img src="/cat.gif" alt="" />
       </div>
     );
   }
